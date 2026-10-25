@@ -1,21 +1,22 @@
-# Hi, I'm Sofiane Chadni 👋
+# Hi, I'm Sofiane 👋
 
 **Data Engineer** passionate about IoT and new technologies.
 I love building data pipelines, turning raw data into insights, and connecting the physical world to data.
 
 🎯 Open to **Data Engineer opportunities**.
+
 🌱 Always learning, mostly self-taught across many fields.
 
 ## 🛠️ Skills
 
-**Languages:** Python · SQL
-**Big Data & Streaming:** Spark · Hadoop · Kafka
-**ETL & Orchestration:** SSIS · Airflow · ETL design
-**Data Architecture:** Data warehouse modeling · Medallion architecture (Bronze / Silver / Gold)
-**Data Visualization:** Power BI
-**Machine Learning:** Machine learning fundamentals
-**Cloud:** Azure
-
+- **Languages:** Python · SQL
+- **Big Data & Streaming:** Spark · Hadoop · Kafka
+- **ETL & Orchestration:** SSIS · Airflow · ETL design
+- **Data Architecture:** Data warehouse modeling · Medallion architecture (Bronze / Silver / Gold)
+- **Data Visualization:** Power BI
+- **Machine Learning:** Machine learning fundamentals
+- **Cloud:** Azure
+- **Tools:** Git
 
 ## 🚀 Projects
 
@@ -34,7 +35,7 @@ Connected sensor that monitors air quality and detects presence in a room.
 
 ## 🎓 Education
 
-- **Data Engineer** 
+- **Data Engineer** ✅
 - **Big Data: Data Analysis**
 - **Big Data: Data Storage & Manipulation**
 - **IoT (Internet of Things)**
