@@ -12,9 +12,10 @@ I love building data pipelines, turning raw data into insights, and connecting t
 **Big Data & Streaming:** Spark · Hadoop · Kafka
 **ETL & Orchestration:** SSIS · Airflow · ETL design
 **Data Architecture:** Data warehouse modeling · Medallion architecture (Bronze / Silver / Gold)
+**Data Visualization:** Power BI
 **Machine Learning:** Machine learning fundamentals
 **Cloud:** Azure
-**Tools:** Git
+
 
 ## 🚀 Projects
 
@@ -22,7 +23,8 @@ I love building data pipelines, turning raw data into insights, and connecting t
 Analysis of the impact of Donald Trump's and Elon Musk's tweets on financial markets.
 - ETL pipeline built with **SSIS** to collect and transform tweets and market data
 - Data stored and queried in **SQL**
-- Analysis and visualization in **Python**
+- Data analysis in **Python**
+- Interactive dashboards in **Power BI**
 
 ### 📬 Smart Mailbox
 Connected mailbox that sends a notification when mail arrives.
@@ -32,7 +34,7 @@ Connected sensor that monitors air quality and detects presence in a room.
 
 ## 🎓 Education
 
-- **Data Engineer** ✅
+- **Data Engineer** 
 - **Big Data: Data Analysis**
 - **Big Data: Data Storage & Manipulation**
 - **IoT (Internet of Things)**
