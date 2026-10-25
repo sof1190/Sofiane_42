@@ -38,7 +38,7 @@ Connected sensor that monitors air quality and detects presence in a room.
 
 ## 🎓 Education
 
-- **Data Engineer** ✅
+- **Data Engineer** 
 - **Big Data: Data Analysis**
 - **Big Data: Data Storage & Manipulation**
 - **IoT (Internet of Things)**
