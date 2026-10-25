@@ -1,4 +1,4 @@
-# Hi, I'm Sofiane 👋
+# Hi, I'm Sofiane Chadni👋
 
 **Data Engineer** passionate about IoT and new technologies.
 I love building data pipelines, turning raw data into insights, and connecting the physical world to data.
